@@ -1,141 +1,59 @@
-🚀 reddy-renusree-portfolio
-Reddy Renusree Portfolio
+# 🚀 reddy-renusree-portfolio
 
-This repository contains the source code for my personal portfolio website. The README provides an overview of the project and instructions on how to view, set up, and customize it for personal use.
+**Reddy Renusree Portfolio**
 
-🌐 My Portfolio Live At:
-👉 https://reddyrenusree.github.io/reddy-renusree-portfolio/
+This repository contains the source code for my personal portfolio website.  
+It provides an overview of my education, internship experience, projects, skills, and contact details.
 
-📚 Table of Contents
+🌐 **Live Portfolio:**  
+https://reddyrenusree.github.io/reddy-renusree-portfolio/
 
-Features
+---
 
-Screenshots
+## 📚 Table of Contents
+- Features
+- Screenshots
+- Getting Started
+- Prerequisites
+- Installation
+- Usage
+- Customization
+- Deployment
+- Contributing
+- License
+- Connect With Me
 
-Getting Started
+---
 
-Prerequisites
+## ✨ Features
+- Responsive design for all screen sizes  
+- Sections for About, Education, Internship Experience, Projects, Skills, and Contact  
+- Showcases AI & ML–based academic and practical projects  
+- Clean and modern UI  
+- Easy to customize with personal content and images  
 
-Installation
+---
 
-Usage
+## 🖼️ Screenshots
+<img width="1893" height="1019" alt="image" src="https://github.com/user-attachments/assets/2b2adf9e-48a5-47b3-b0e2-8db656b19feb" />
 
-Customization
+---
 
-Deployment
+## 🏁 Getting Started
+Follow the steps below to view or customize the portfolio locally.
 
-Contributing
+---
 
-License
+## ✅ Prerequisites
+- A modern web browser (Chrome, Edge, Firefox)
+- No server required to view the site
+- Code editor (VS Code recommended) for customization
+- Git (optional, for deployment)
 
-Connect With Me
+---
 
-✨ Features
-
-Responsive design for all screen sizes 📱💻
-
-Dedicated sections for About, Education, Internship Experience, Projects, Skills, and Contact
-
-Showcases AI & ML–based projects
-
-Clean and modern user interface
-
-Easy to customize with personal information and images
-
-🖼️ Screenshots
-
-(Add screenshots of your portfolio here)
-
-🏁 Getting Started
-
-Follow these instructions to view or customize the portfolio on your local machine.
-
-✅ Prerequisites
-
-A modern web browser (Chrome, Edge, Firefox, etc.)
-
-No additional software required to view the website
-
-For customization:
-
-Code editor (VS Code recommended)
-
-Git (optional, for deployment)
-
-📥 Installation
-
-⭐ Star the repository (optional but appreciated)
-
-Clone the repository:
-
-git clone https://github.com/reddyrenusree/reddy-renusree-portfolio.git
-
-
-Navigate to the project folder:
-
-cd reddy-renusree-portfolio
-
-▶️ Usage
-View Locally
-
-Open index.html directly in your web browser.
-
-Customize
-
-Open the project in a code editor.
-
-Modify content, images, and sections as required.
-
-Refresh the browser to preview changes.
-
-🛠️ Customization
-
-Update Content:
-Edit index.html to update personal details, education, internships, projects, and skills.
-
-Change Images:
-Replace images inside the images/ folder with your own.
-
-Edit Sections:
-Modify the HTML/CSS to add or remove sections based on your needs.
-
-🚀 Deployment
-
-You can deploy this portfolio using GitHub Pages or any static hosting platform.
-
-Deploy on GitHub Pages
-
-Push your code to a GitHub repository.
-
-Go to Repository Settings → Pages.
-
-Select:
-
-Source: main branch
-
-Folder: /root
-
-Save the settings.
-
-Your portfolio will be live at:
-
-https://<your-username>.github.io/<repository-name>/
-
-🤝 Contributing
-
-Contributions are welcome 😊
-Feel free to fork the repository, create a new branch, make improvements, and submit a pull request.
-
-📄 License
-
-This project is licensed under the MIT License.
-
-🌐 Connect With Me
-
-🌍 Portfolio: https://reddyrenusree.github.io/reddy-renusree-portfolio/
-
-📧 Email: renusree777@gmail.com
-
-📞 Contact: +91 9182418659
-
-🔗 LinkedIn: https://www.linkedin.com/in/reddy-renusree-b8945227a
+## 📥 Installation
+1. ⭐ Star the repository (optional)
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/reddyrenusree/reddy-renusree-portfolio.git
